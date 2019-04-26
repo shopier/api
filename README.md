@@ -2,7 +2,7 @@
 
 Yazdığınız özel yazılımlarınıza **Shopier ile Ödeme Alma** metodu ekleyebilirsiniz.
 
-Bu kütüphane ile çok kolay bir şekilde entegrasyon sağlayabilirsiniz.
+Shopier Api Entegrasyonu ile çok kolay bir şekilde entegrasyon sağlayın.
 
 [https://github.com/erkineren/shopier](https://github.com/erkineren/shopier)
 
